@@ -13,4 +13,4 @@ My contributions to the project included:
     - used Random Suvival Forest to accurately predict which year a player is going to experience their decline and their          hazard function
 - documented and reported the above coding work in the powerpoint presentation and final report
 
-  Other group member names: William Hawkins, Kaitlyn Williams, Kimmi Woods, & Ben Zabriskie
+Other group member names: William Hawkins, Kaitlyn Williams, Kimmi Woods, & Ben Zabriskie
